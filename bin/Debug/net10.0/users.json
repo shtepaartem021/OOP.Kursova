@@ -1,0 +1,33 @@
+[
+  {
+    "Username": "shart012",
+    "Rating": 1030,
+    "PasswordHash": "1234",
+    "GameHistory": [
+      {
+        "Date": "2025-12-18T15:13:34.2272814+02:00",
+        "OpponentName": "HardBot",
+        "Result": 2,
+        "RatingChange": 5
+      },
+      {
+        "Date": "2025-12-18T15:13:44.6342131+02:00",
+        "OpponentName": "MedBot",
+        "Result": 1,
+        "RatingChange": -25
+      },
+      {
+        "Date": "2025-12-18T15:15:28.789389+02:00",
+        "OpponentName": "MedBot",
+        "Result": 0,
+        "RatingChange": 25
+      },
+      {
+        "Date": "2025-12-18T15:17:20.7689354+02:00",
+        "OpponentName": "EasyBot",
+        "Result": 0,
+        "RatingChange": 25
+      }
+    ]
+  }
+]
