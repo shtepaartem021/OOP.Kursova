@@ -134,7 +134,6 @@ namespace TicTacToeGame.UI
 
             Console.Clear();
             BoardRenderer.Draw(engine.Board);
-            Console.WriteLine("=== ГРУ ЗАВЕРШЕНО ===");
             Console.WriteLine(engine.StatusMessage);
 
             UserRepository.SaveData();
